@@ -9,3 +9,4 @@ the sets used for this project are:
 - spam: 500 spam messages, all received from non-spam-trap sources.
 
 the total spam ratio is 1/6
+idiota
